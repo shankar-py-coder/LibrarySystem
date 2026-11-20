@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230260
+# Name: Shankar S B
+# Date: 20.11.26
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1917" height="1078" alt="Screenshot 2026-10-13 142018" src="https://github.com/user-attachments/assets/762e0185-2e27-406c-aa4e-24e68d059e39" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1041" height="800" alt="image" src="https://github.com/user-attachments/assets/bf8980a0-04fd-4ec2-8777-c6cba554a512" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="798" height="515" alt="image" src="https://github.com/user-attachments/assets/c63abb18-1cbe-4205-b851-697a8c982816" />
 
 
 
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3df921ab-46c5-44cb-ab94-d0ea7d162c86" />
 
 
 
@@ -117,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1030" height="830" alt="Screenshot 2026-11-02 105534" src="https://github.com/user-attachments/assets/71102eaa-b0e5-46c6-a318-0d02cce90a7c" />
 
 
 
